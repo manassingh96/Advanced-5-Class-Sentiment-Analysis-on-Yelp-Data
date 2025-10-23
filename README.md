@@ -10,3 +10,13 @@ The core objective was to achieve the highest possible accuracy on the challengi
 
 ✅ Final Results :
 The final accuracy on the 5-class test set reflects the difficulty of distinguishing boundary cases (like 3 vs. 4 stars) in real-world data, demonstrating the model's performance on the most nuanced task.MetricValueBaseline ComparisonTest Set Accuracy (5-Class)$\mathbf{X.XX\%}$Significantly higher than the $20\%$ random baseline.Model Saved$\mathbf{final\_model\_saved\_5class\_weighted}$Ready for deployment.Conclusion: The project successfully established a robust, scalable pipeline capable of handling large-scale unstructured data and implemented advanced techniques to address core challenges in sentiment analysis, positioning the candidate well for specialized ML roles.
+
+Note :
+1) Dataset link : https://business.yelp.com/data/resources/open-dataset/
+2) The data is too large so try running the program on colab after mounting with your drive(upload the data on drive)
+3) Download the data in json
+
+
+For any assistance , you can contact 
+linkedIn : https://www.linkedin.com/in/manassingh2212/
+Email : manassingh906@gmail.com
